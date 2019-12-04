@@ -1,7 +1,7 @@
 # Data-Visualization
 Data Visualization assignments
 #
-Scientific Visualization: Assignment 1 and 2 
+Scientific Visualization: Assignment A1 and A2 
 #
-Information Visualization: Assignment 3 and 4 
+Information Visualization: Assignment A3 and A4 
 
